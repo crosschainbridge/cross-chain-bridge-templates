@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="91ef71d2-22a1-4a8c-98fe-8ebe5b1f96c4" name="Default Changelist" comment="" />
+    <list default="true" id="91ef71d2-22a1-4a8c-98fe-8ebe5b1f96c4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/contracts/ProxyMinter.sol" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,11 +34,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1621605668611</updated>
-      <workItem from="1621605670063" duration="1293000" />
+      <workItem from="1621605670063" duration="3096000" />
+      <workItem from="1629318938103" duration="212000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
